@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='black'> Welcome to Ashok IT - Software Training Institute This is edited by RITESH <font></h1>
+<h1><font color='Red'> Welcome to Ashok IT - Software Training Institute This is edited by RITESH <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 <h2>This session is very practical </h2>
   
